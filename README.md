@@ -1,8 +1,8 @@
-# Bitcoin Donation Portal
+# Core Lightning Donation Portal
 
-## Support bitcoin developers so they can focus on building our future
+## Support Lightning developers so they can focus on building our future
 
-[The website](https://bitcoindevlist.com/) lists people working on Bitcoin and related projects.
+[The website](https://corelightning.dev/) lists people working on Lightning and related projects.
 The goal is to increase the visibility of contributors to the space that are accepting donations.
 If you are currently working on a bitcoin related open source project, submit a PR to get yourself added.
 
@@ -11,7 +11,7 @@ As a baseline we have decided on a policy that requires at least one ACK for new
 
 ## Adding yourself to the lists
 
-If you are currently working on a bitcoin related open source project, submit a PR to [get yourself added](https://github.com/dennisreimann/bitcoindevlist.com/edit/master/donatees).
+If you are currently working on a Lightning related open source project, submit a PR to [get yourself added](https://github.com/corelightning-dev/corelightning.dev/edit/master/donatees).
 Just append your block of data to the bottom, the list is shuffled on page load.
 You can use Markdown in the `description` property.
 

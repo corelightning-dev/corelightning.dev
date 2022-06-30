@@ -1,8 +1,8 @@
 {
   "version": "0.1.0",
-  "name": "bitcoindevlist.com",
-  "description": "Support bitcoin developers so they can focus on building our future.",
-  "repository": "git@github.com:dennisreimann/bitcoindevlist.com.git",
+  "name": "corelightning.dev",
+  "description": "Support Core Lightning developers so they can focus on building our future.",
+  "repository": "git@github.com:corelightning-dev/corelightning.dev.git",
   "license": "MIT",
   "engines": {
     "node": ">=14.0.0"
